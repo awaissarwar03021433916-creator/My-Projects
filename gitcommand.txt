@@ -9,5 +9,20 @@ TO ADD
 git add filename
 TO COMMIT AFTER ADDIG
 git commit -m "some msg"
+RUN THIS CMD TO PUSH CODE TO GITHUB AFTER CHANGING IN YOUR PC
+git push origin main
+
 TO ADD GIT IN NEW FOLDER USE COMMAND
-git init
+git init (after initializing git in new project then MAKE NEW REPOSITORY in GITHUB profile after that)
+RUN THIS COMMAND 
+git remote add origin link  (link => which is provided by github when you make new repository in profile by this origin is set )
+TO CHECK WHAT ORIGIN IS SET RUN THIS COMMAND 
+git remote -v
+TO CHECK BRANCH(Branch means 1 main project hai jis pr team work krai gi like 3 teams hain to 
+ =team1 branch-1 ko handle krai gi same team2 branch-2 or team3 branch-3 ko handle krai gi or apnai pas unki copies rakh lai gi. )
+cmd => to check branch : git branch
+
+TO RENAME BRANCH
+ git branch -M "any name"
+USE SHORTCUT BY ADDING -u to avoid to write COMPLETE CMD 
+git push-u origin main so after this just write run => git push
