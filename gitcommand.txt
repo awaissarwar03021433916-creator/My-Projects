@@ -5,3 +5,9 @@ git clone some link
 is sai ham github sai koi b project ko apnai pc/laptop mai opy kr sktai hain
 status -  displays the status of the code
 git status
+TO ADD
+git add filename
+TO COMMIT AFTER ADDIG
+git commit -m "some msg"
+TO ADD GIT IN NEW FOLDER USE COMMAND
+git init
