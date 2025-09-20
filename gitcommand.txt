@@ -1,0 +1,7 @@
+CLONE & STATUS
+
+clone - clone a repository on our local machine
+git clone some link
+is sai ham github sai koi b project ko apnai pc/laptop mai opy kr sktai hain
+status -  displays the status of the code
+git status
